@@ -1,3 +1,4 @@
+// Entry point of the Task Management GUI
 package todo;
 
 import java.awt.*;
