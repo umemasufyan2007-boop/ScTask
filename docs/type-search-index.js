@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"todo","l":"Task.Status","k":"9"},{"p":"todo","l":"Task"},{"p":"todo","l":"TaskApp"},{"p":"todo","l":"TaskManager"}];updateSearchResults();
